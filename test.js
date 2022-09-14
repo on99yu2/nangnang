@@ -1,2 +1,2 @@
-const NangNang = "NangNang"
-const main_branch = "main_branch"
+const on99yu2 = "on99yu2"
+
