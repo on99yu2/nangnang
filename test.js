@@ -1,2 +1,1 @@
-const NangNang = "NangNang"
-const main_branch = "main_branch"
+// on99yu 레포지토리임
