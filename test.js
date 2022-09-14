@@ -1,1 +1,1 @@
-// on99yu 레포지토리임
+const on99yu2 = "on99yu2"
